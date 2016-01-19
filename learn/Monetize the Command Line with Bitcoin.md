@@ -1,4 +1,3 @@
-[![21.co](https://assets.21.co/shared/img/21logo.png)21 Inc][0]
 
 # [Setup][1] | [Tutorials][2] | [Buy][3] | [Community][4] | [Nodes][5] | [About][6]
 
@@ -335,16 +334,12 @@ network.
 
 Check out all the Bitcoin Apps you can build with the 21 Bitcoin Computer.
 
-[See more apps][2]
-
-[![Next](https://assets.21.co/setup/img/next_app.png)][2]
-
 
 ---
 
 *Content authored by John Granata, Ronak Mehta  |  Markdown created by PK Rasam* 
 
-If you have any questions or issues, please drop us a line at [\[email protected\] ][117] or join our [Slack ][4] community.
+If you have any questions or issues, please drop us a line at [Email ][117] or join our [Slack ][4] community.
 
 This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][118].
 
@@ -370,9 +365,7 @@ This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 In
 [13]: #step-4-wrap-the-server-into-a-bitcoin-payable-command-line-tool "Step 4: Wrap the server into a bitcoin-payable command line tool"
 [14]: #next-steps "Next Steps"
 [15]: /learn/ "< Back To Index"
-[16]: https://twitter.com/intent/tweet?text=Hmm. This looks like a good resource for learning how to build Bitcoin apps:&url=https%3A//21.co/learn/monetize-the-command-line-with-bitcoin/
 [17]: https://www.facebook.com/sharer/sharer.php?u=https%3A//21.co/learn/monetize-the-command-line-with-bitcoin/
-[18]: /cdn-cgi/l/email-protection#eed1c89d9b8c848b8d9ad3ba86879dce828181859dce8287858bce8fce8981818ace9c8b9d819b9c8d8bce88819cce828b8f9c80878089ce868199ce9a81ce8c9b87Xld Bitcoin apps&body=Here's the URL: https%3A//21.co/learn/monetize-the-command-line-with-bitcoin/
 [19]: /setup
 [20]: ../introduction-to-the-21-bitcoin-computer/
 [21]: ../21-multiple-users
@@ -470,8 +463,7 @@ This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 In
 [113]: https://www.cbinsights.com/blog/saas-exits-workday-largest/
 [114]: ../bitcoin-payable-api
 [115]: https://slack.21.co/
-[116]: /cdn-cgi/l/email-protection#724d54010710181711064f261a1b01521e1d1d1901521e1b1917521352151d1d16520017011d0700111752141d00521e1713001c1b1c15521a1d0552061d5210071bXld Bitcoin apps&body=Here's the URL: https%3A//21.co/learn/monetize-the-command-line-with-bitcoin/
-[117]: /cdn-cgi/l/email-protection#c4b7b1b4b4abb6b084f6f5eaa7ab
+[117]: mailto:support@21.co
 [118]: https://creativecommons.org/licenses/by-sa/4.0/
 [119]: //twitter.com/21
 [120]: //medium.com/@21
