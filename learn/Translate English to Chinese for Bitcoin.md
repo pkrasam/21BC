@@ -1,4 +1,3 @@
-[![21.co](https://assets.21.co/shared/img/21logo.png)21 Inc][0]
 
 # [Setup][1] | [Tutorials][2] | [Buy][3] | [Community][4] | [Nodes][5] | [About][6]
 
@@ -262,7 +261,7 @@ Check out all the Bitcoin Apps you can build with the 21 Bitcoin Computer.
 
 *Content authored by Ronak Mehta  |  Markdown created by PK Rasam* 
 
-If you have any questions or issues, please drop us a line at [\[email protected\] ][91] or join our [Slack ][4] community.
+If you have any questions or issues, please drop us a line at [Email ][91] or join our [Slack ][4] community.
 
 This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][92].
 
@@ -288,9 +287,7 @@ This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 In
 [13]: #step-4-create-a-client-that-accepts-english-text-and-returns-the-chinese-translation "Step 4: Create a client that accepts English text and returns the Chinese translation"
 [14]: #next-steps "Next Steps"
 [15]: /learn/ "< Back To Index"
-[16]: https://twitter.com/intent/tweet?text=Hmm. This looks like a good resource for learning how to build Bitcoin apps:&url=https%3A//21.co/learn/bitcoin-translation/
 [17]: https://www.facebook.com/sharer/sharer.php?u=https%3A//21.co/learn/bitcoin-translation/
-[18]: /cdn-cgi/l/email-protection#9ca3baefe9fef6f9ffe8a1c8f4f5efbcf0f3f3f7efbcf0f5f7f9bcfdbcfbf3f3f8bceef9eff3e9eefff9bcfaf3eebcf0f9fdeef2f5f2fbbcf4f3ebbce8f3bcfee9f5Xld Bitcoin apps&body=Here's the URL: https%3A//21.co/learn/bitcoin-translation/
 [19]: /setup
 [20]: ../introduction-to-the-21-bitcoin-computer/
 [21]: ../21-multiple-users
@@ -362,8 +359,7 @@ This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 In
 [87]: #code-ef932fb6f229067df6cb4f46e9653b1919d466c8-31
 [88]: https://slack.com/integrations
 [89]: https://slack.21.co/
-[90]: /cdn-cgi/l/email-protection#e1dec79294838b848295dcb5898892c18d8e8e8a92c18d888a84c180c1868e8e85c19384928e94938284c1878e93c18d8480938f888f86c1898e96c1958ec1839488Xld Bitcoin apps&body=Here's the URL: https%3A//21.co/learn/bitcoin-translation/
-[91]: /cdn-cgi/l/email-protection#ff8c8a8f8f908d8bbfcdced19c90
+[91]: mailto:support@21.co
 [92]: https://creativecommons.org/licenses/by-sa/4.0/
 [93]: //twitter.com/21
 [94]: //medium.com/@21
