@@ -1,27 +1,9 @@
-[![21.co](https://assets.21.co/shared/img/21logo.png)21 Inc][0]
 
-* [Setup][1]
-* [Tutorials][2]
-* [Buy][3]
-* [Community][4]
-* [Nodes][5]
-* [About][6]
+# [Setup][1] | [Tutorials][2] | [Buy][3] | [Community][4] | [Nodes][5] | [About][6]
 
-* [A Bitcoin Mashup as a Digital Supply Chain][7]
-  * [Overview][8]
-  * [Prerequisites][9]
-  * [Step 1: Set up client, server, and server-2 accounts][10]
-  * [Step 2: Set up the first server in the digital supply chain][11]
-    * [Imgur][12]
-    * [Twitter][13]
-    * [Twilio][14]
-  * [Step 3: Set up the second server in the digital supply chain][15]
-  * [Step 4: Set up the client][16]
-  * [Next Steps][17]
-* [< Back To Index][18]
 
 # A Bitcoin MashupPosted by
-John Granata
+*Content authored by John Granata  |  Markdown created by PK Rasam* 
   
 
 * [A Bitcoin Mashup as a Digital Supply Chain][7]
@@ -381,6 +363,7 @@ your editor. Add the following code to this file:
 Save and close this file. Then run the client side script to test our
 digital supply chain:
 
+    
     python3 client.py
     
 
@@ -493,17 +476,12 @@ network.
 
 Check out all the Bitcoin Apps you can build with the 21 Bitcoin Computer.
 
-[See more apps][2]
-
-[![Next](https://assets.21.co/setup/img/next_app.png)][2]
-
 
 ---
 
-Authors  
-John Granata
+*Content authored by John Granata  |  Markdown created by PK Rasam* 
 
-If you have any questions or issues, please drop us a line at [\[email protected\] ][221] or join our [Slack ][4] community.
+If you have any questions or issues, please drop us a line at [Email ][221] or join our [Slack ][4] community.
 
 This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][222].
 
@@ -532,9 +510,7 @@ This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 In
 [16]: #step-4-set-up-the-client "Step 4: Set up the client"
 [17]: #next-steps "Next Steps"
 [18]: /learn/ "< Back To Index"
-[19]: https://twitter.com/intent/tweet?text=Hmm. This looks like a good resource for learning how to build Bitcoin apps:&url=https%3A//21.co/learn/bitcoin-mashup/
 [20]: https://www.facebook.com/sharer/sharer.php?u=https%3A//21.co/learn/bitcoin-mashup/
-[21]: /cdn-cgi/l/email-protection#28170e5b5d4a424d4b5c157c40415b08444747435b084441434d0849084f47474c085a4d5b475d5a4b4d084e475a08444d495a4641464f0840475f085c47084a5d41Xld Bitcoin apps&body=Here's the URL: https%3A//21.co/learn/bitcoin-mashup/
 [22]: /setup
 [23]: ../introduction-to-the-21-bitcoin-computer/
 [24]: ../21-multiple-users
@@ -733,8 +709,7 @@ This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 In
 [217]: http://ceronman.com/2013/03/12/a-powerful-unused-feature-of-python-function-annotations/
 [218]: /submit-bitcoin-tutorial
 [219]: https://slack.21.co/
-[220]: /cdn-cgi/l/email-protection#d2edf4a1a7b0b8b7b1a6ef86babba1f2bebdbdb9a1f2bebbb9b7f2b3f2b5bdbdb6f2a0b7a1bda7a0b1b7f2b4bda0f2beb7b3a0bcbbbcb5f2babda5f2a6bdf2b0a7bbXld Bitcoin apps&body=Here's the URL: https%3A//21.co/learn/bitcoin-mashup/
-[221]: /cdn-cgi/l/email-protection#12616762627d60665220233c717d
+[221]: mailto:support@21.co
 [222]: https://creativecommons.org/licenses/by-sa/4.0/
 [223]: //twitter.com/21
 [224]: //medium.com/@21
