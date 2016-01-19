@@ -1,24 +1,9 @@
-[![21.co](https://assets.21.co/shared/img/21logo.png)21 Inc][0]
 
-* [Setup][1]
-* [Tutorials][2]
-* [Buy][3]
-* [Community][4]
-* [Nodes][5]
-* [About][6]
+# [Setup][1] | [Tutorials][2] | [Buy][3] | [Community][4] | [Nodes][5] | [About][6]
 
-* [Receive an SMS from Anyone for Bitcoin][7]
-  * [Overview][8]
-  * [Prerequisites][9]
-  * [Step 1: Set up client and server accounts.][10]
-  * [Step 2: Sign up for a Twilio API key][11]
-  * [Step 3: Set up the SMS server][12]
-  * [Step 4: Set up the client who will pay to SMS you][13]
-  * [Next Steps][14]
-* [< Back To Index][15]
 
-# Receive an SMS from Anyone for BitcoinPosted by
-John Granata
+# Receive an SMS from Anyone for Bitcoin 
+*Content authored by John Granata  |  Markdown created by PK Rasam* 
   
 
 * [Receive an SMS from Anyone for Bitcoin][7]
@@ -263,17 +248,12 @@ network.
 
 Check out all the Bitcoin Apps you can build with the 21 Bitcoin Computer.
 
-[See more apps][2]
-
-[![Next](https://assets.21.co/setup/img/next_app.png)][2]
-
 
 ---
 
-Authors  
-John Granata
+*Content authored by John Granata  |  Markdown created by PK Rasam* 
 
-If you have any questions or issues, please drop us a line at [\[email protected\] ][92] or join our [Slack ][4] community.
+If you have any questions or issues, please drop us a line at [Email ][92] or join our [Slack ][4] community.
 
 This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][93].
 
@@ -299,9 +279,7 @@ This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 In
 [13]: #step-4-set-up-the-client-who-will-pay-to-sms-you "Step 4: Set up the client who will pay to SMS you"
 [14]: #next-steps "Next Steps"
 [15]: /learn/ "< Back To Index"
-[16]: https://twitter.com/intent/tweet?text=Hmm. This looks like a good resource for learning how to build Bitcoin apps:&url=https%3A//21.co/learn/bitcoin-sms-contact/
 [17]: https://www.facebook.com/sharer/sharer.php?u=https%3A//21.co/learn/bitcoin-sms-contact/
-[18]: /cdn-cgi/l/email-protection#91aeb7e2e4f3fbf4f2e5acc5f9f8e2b1fdfefefae2b1fdf8faf4b1f0b1f6fefef5b1e3f4e2fee4e3f2f4b1f7fee3b1fdf4f0e3fff8fff6b1f9fee6b1e5feb1f3e4f8Xld Bitcoin apps&body=Here's the URL: https%3A//21.co/learn/bitcoin-sms-contact/
 [19]: /setup
 [20]: ../introduction-to-the-21-bitcoin-computer/
 [21]: ../21-multiple-users
@@ -374,8 +352,7 @@ This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 In
 [88]: http://tutos.readthedocs.org/en/latest/source/ndg.html
 [89]: /submit-bitcoin-tutorial
 [90]: https://slack.21.co/
-[91]: /cdn-cgi/l/email-protection#5f60792c2a3d353a3c2b620b37362c7f333030342c7f3336343a7f3e7f3830303b7f2d3a2c302a2d3c3a7f39302d7f333a3e2d313631387f3730287f2b307f3d2a36Xld Bitcoin apps&body=Here's the URL: https%3A//21.co/learn/bitcoin-sms-contact/
-[92]: /cdn-cgi/l/email-protection#01727471716e73754133302f626e
+[92]: mailto:support@21.co
 [93]: https://creativecommons.org/licenses/by-sa/4.0/
 [94]: //twitter.com/21
 [95]: //medium.com/@21
