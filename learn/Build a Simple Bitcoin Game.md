@@ -299,9 +299,7 @@ This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 In
 [12]: #step-3-create-a-simple-bitcoin-game-client "Step 3: Create a simple bitcoin game client"
 [13]: #next-steps "Next Steps"
 [14]: /learn/ "< Back To Index"
-[15]: https://twitter.com/intent/tweet?text=Hmm. This looks like a good resource for learning how to build Bitcoin apps:&url=https%3A//21.co/learn/build-a-simple-bitcoin-game/
 [16]: https://www.facebook.com/sharer/sharer.php?u=https%3A//21.co/learn/build-a-simple-bitcoin-game/
-[17]: /cdn-cgi/l/email-protection#655a431610070f00061158310d0c1645090a0a0e1645090c0e00450445020a0a01451700160a1017060045030a1745090004170b0c0b02450d0a1245110a4507100cXld Bitcoin apps&body=Here's the URL: https%3A//21.co/learn/build-a-simple-bitcoin-game/
 [18]: /setup
 [19]: ../introduction-to-the-21-bitcoin-computer/
 [20]: ../21-multiple-users
@@ -402,7 +400,6 @@ This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 In
 [115]: http://tutos.readthedocs.org/en/latest/source/ndg.html
 [116]: /submit-bitcoin-tutorial
 [117]: https://slack.21.co/
-[118]: /cdn-cgi/l/email-protection#c2fde4b1b7a0a8a7a1b6ff96aaabb1e2aeadada9b1e2aeaba9a7e2a3e2a5adada6e2b0a7b1adb7b0a1a7e2a4adb0e2aea7a3b0acabaca5e2aaadb5e2b6ade2a0b7abXld Bitcoin apps&body=Here's the URL: https%3A//21.co/learn/build-a-simple-bitcoin-game/
 [119]: mailto:support@21.co
 [120]: https://creativecommons.org/licenses/by-sa/4.0/
 [121]: //twitter.com/21
