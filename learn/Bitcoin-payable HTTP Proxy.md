@@ -1,24 +1,9 @@
-[![21.co](https://assets.21.co/shared/img/21logo.png)21 Inc][0]
 
-* [Setup][1]
-* [Tutorials][2]
-* [Buy][3]
-* [Community][4]
-* [Nodes][5]
-* [About][6]
+# [Setup][1] | [Tutorials][2] | [Buy][3] | [Community][4] | [Nodes][5] | [About][6]
 
-* [Build a Bitcoin-payable HTTP Proxy][7]
-  * [Overview][8]
-  * [Prerequisites][9]
-  * [Step 1: Set up client and server accounts.][10]
-  * [Step 2: Set up the example server for debugging][11]
-  * [Step 3: Set up the HTTP Proxy][12]
-  * [Step 4: Create a client that pays bitcoin to a proxy to connect to a remote server][13]
-  * [Next Steps][14]
-* [< Back To Index][15]
 
-# Bitcoin-payable HTTP ProxyPosted by
-Corentin Debains
+# Bitcoin-payable HTTP Proxy 
+*Content authored by Corentin Debains  |  Markdown created by PK Rasam* 
   
 * [Build a Bitcoin-payable HTTP Proxy][7]
   * [Overview][8]
@@ -81,6 +66,7 @@ There are three pieces in this system: an example server for
 debugging, a bitcoin-payable proxy, and a client capable of paying
 bitcoin. You will also need to install the `requests` library:
 
+    
     sudo pip3 install requests
     
 
@@ -96,12 +82,14 @@ that you are about to write.
 
 To set up the example server, SSH in as the `twenty-server` user.
 
+    
     ssh twenty-server@<IP Address>
     
 
 Create a file called `example-server-for-http-proxy.py` in a new
 directory.
 
+    
     nano example-server-for-http-proxy.py
     
 
@@ -133,24 +121,28 @@ locally and confirm that it's working as advertised before trying to
 connect to a real remote server like `stanford.edu`. Let's start the
 server to test it out:
 
+    
     python3 example-server-for-http-proxy.py
     
 
 Leave the current terminal open and open up another one. SSH into
 your 21 Bitcoin computer as the `twenty-client` user with:
 
+    
     ssh twenty-client@<IP Address>
     
 
 Use the command line `curl` utility to request the URL
 `http://127.0.0.1:5000/` from this example server as follows:
 
+    
     curl http://127.0.0.1:5000/
     
 
 It should display `Hello, World!`. Now, try curling the other endpoint
 of this example server:
 
+    
     curl http://127.0.0.1:5000/AmIBehindProxy
     
 
@@ -165,11 +157,13 @@ your request. We will use this to debug the proxy server below.
 Leave the current terminal open and open up another one. SSH into
 your 21 Bitcoin computer as the `twenty-server` user with:
 
+    
     ssh twenty-server@<IP Address>
     
 
 Create a file called `proxy.py` in a new directory.
 
+    
     nano proxy.py
     
 
@@ -239,6 +233,7 @@ Fill it with the following code:
 
 Let's start the proxy:
 
+    
     python3 proxy.py
     
 
@@ -277,11 +272,13 @@ Now we're going to put the pieces together.
 
 To set up the client, SSH in as the `twenty-client` user:
 
+    
     ssh twenty-client@<IP Address>
     
 
 Create a file called `client-for-http-proxy.py` in a new directory.
 
+    
     nano client-for-http-proxy.py
     
 
@@ -321,6 +318,7 @@ Fill it with the following code:
 
 Finally, let's run the client:
 
+    
     python3 client-for-http-proxy.py
     
 
@@ -423,17 +421,12 @@ network.
 
 Check out all the Bitcoin Apps you can build with the 21 Bitcoin Computer.
 
-[See more apps][2]
-
-[![Next](https://assets.21.co/setup/img/next_app.png)][2]
-
 
 ---
 
-Authors  
-Corentin Debains
+*Content authored by Corentin Debains  |  Markdown created by PK Rasam* 
 
-If you have any questions or issues, please drop us a line at [\[email protected\] ][138] or join our [Slack ][4] community.
+If you have any questions or issues, please drop us a line at [Email ][138] or join our [Slack ][4] community.
 
 This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][139].
 
@@ -458,9 +451,7 @@ This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 In
 [13]: #step-4-create-a-client-that-pays-bitcoin-to-a-proxy-to-connect-to-a-remote-server "Step 4: Create a client that pays bitcoin to a proxy to connect to a remote server"
 [14]: #next-steps "Next Steps"
 [15]: /learn/ "< Back To Index"
-[16]: https://twitter.com/intent/tweet?text=Hmm. This looks like a good resource for learning how to build Bitcoin apps:&url=https%3A//21.co/learn/bitcoin-payable-http-proxy/
 [17]: https://www.facebook.com/sharer/sharer.php?u=https%3A//21.co/learn/bitcoin-payable-http-proxy/
-[18]: /cdn-cgi/l/email-protection#9da2bbeee8fff7f8fee9a0c9f5f4eebdf1f2f2f6eebdf1f4f6f8bdfcbdfaf2f2f9bdeff8eef2e8effef8bdfbf2efbdf1f8fceff3f4f3fabdf5f2eabde9f2bdffe8f4Xld Bitcoin apps&body=Here's the URL: https%3A//21.co/learn/bitcoin-payable-http-proxy/
 [19]: https://en.wikipedia.org/wiki/Proxy_server
 [20]: /setup
 [21]: ../introduction-to-the-21-bitcoin-computer/
@@ -579,8 +570,7 @@ This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 In
 [134]: http://hola.org
 [135]: /submit-bitcoin-tutorial
 [136]: https://slack.21.co/
-[137]: /cdn-cgi/l/email-protection#112e376264737b7472652c45797862317d7e7e7a62317d787a74317031767e7e75316374627e6463727431777e63317d7470637f787f7631797e6631657e31736478Xld Bitcoin apps&body=Here's the URL: https%3A//21.co/learn/bitcoin-payable-http-proxy/
-[138]: /cdn-cgi/l/email-protection#33404643435c41477301021d505c
+[138]: mailto:support@21.co
 [139]: https://creativecommons.org/licenses/by-sa/4.0/
 [140]: //twitter.com/21
 [141]: //medium.com/@21
