@@ -1,4 +1,3 @@
-[![21.co](https://assets.21.co/shared/img/21logo.png)21 Inc][0]
 
 # [Setup][1] | [Tutorials][2] | [Buy][3] | [Community][4] | [Nodes][5] | [About][6]
 
