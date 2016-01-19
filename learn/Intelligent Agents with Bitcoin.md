@@ -3,7 +3,7 @@
 # [Setup][1] | [Tutorials][2] | [Buy][3] | [Community][4] | [Nodes][5] | [About][6]
 
 
-# Intelligent Agents with BitcoinPosted by
+# Intelligent Agents with Bitcoin 
 *Content authored by John Granata  |  Markdown created by PK Rasam* 
 
 
