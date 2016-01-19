@@ -1,23 +1,10 @@
 [![21.co](https://assets.21.co/shared/img/21logo.png)21 Inc][0]
 
-* [Setup][1]
-* [Tutorials][2]
-* [Buy][3]
-* [Community][4]
-* [Nodes][5]
-* [About][6]
+# [Setup][1] | [Tutorials][2] | [Buy][3] | [Community][4] | [Nodes][5] | [About][6]
 
-* [Build a Simple Bitcoin Game][7]
-  * [Overview][8]
-  * [Prerequisites][9]
-  * [Step 1: Set up client and server accounts.][10]
-  * [Step 2: Create a simple bitcoin-powered game server][11]
-  * [Step 3: Create a simple bitcoin game client][12]
-  * [Next Steps][13]
-* [< Back To Index][14]
 
-# Build a Simple Bitcoin GamePosted by
-Tyler Julian
+# Build a Simple Bitcoin Game 
+*Content authored by Tyler Julian  |  Markdown created by PK Rasam* 
   
 * [Build a Simple Bitcoin Game][7]
   * [Overview][8]
@@ -60,6 +47,7 @@ and install Flask.
 
 Now let's set up a folder to house our app:
 
+    
     mkdir trivia-server && cd trivia-server
     
 
@@ -130,11 +118,13 @@ requests.
 
 Make sure the server has some bitcoin for payouts by running:
 
+    
     21 mine
     
 
 Now run the following command to start the server:
 
+    
     python3 trivia-server.py
     
 
@@ -144,6 +134,7 @@ Now open up a new terminal window and connect to your 21 Bitcoin
 Computer as `twenty-client`. Create a folder to house the client
 project:
 
+    
     mkdir trivia-client && cd trivia-client
     
 
@@ -186,6 +177,7 @@ server:
 
 That's it! Run the following code to start the game.
 
+    
     python3 play.py
     
 
@@ -278,17 +270,12 @@ network.
 
 Check out all the Bitcoin Apps you can build with the 21 Bitcoin Computer.
 
-[See more apps][2]
-
-[![Next](https://assets.21.co/setup/img/next_app.png)][2]
-
 
 ---
 
-Authors  
-Tyler Julian
+*Content authored by Tyler Julian  |  Markdown created by PK Rasam* 
 
-If you have any questions or issues, please drop us a line at [\[email protected\] ][119] or join our [Slack ][4] community.
+If you have any questions or issues, please drop us a line at [Email ][119] or join our [Slack ][4] community.
 
 This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][120].
 
@@ -416,7 +403,7 @@ This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 In
 [116]: /submit-bitcoin-tutorial
 [117]: https://slack.21.co/
 [118]: /cdn-cgi/l/email-protection#c2fde4b1b7a0a8a7a1b6ff96aaabb1e2aeadada9b1e2aeaba9a7e2a3e2a5adada6e2b0a7b1adb7b0a1a7e2a4adb0e2aea7a3b0acabaca5e2aaadb5e2b6ade2a0b7abXld Bitcoin apps&body=Here's the URL: https%3A//21.co/learn/build-a-simple-bitcoin-game/
-[119]: /cdn-cgi/l/email-protection#f3808683839c8187b3c1c2dd909c
+[119]: mailto:support@21.co
 [120]: https://creativecommons.org/licenses/by-sa/4.0/
 [121]: //twitter.com/21
 [122]: //medium.com/@21
