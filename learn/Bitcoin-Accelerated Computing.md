@@ -1,4 +1,3 @@
-[![21.co](https://assets.21.co/shared/img/21logo.png)21 Inc][0]
 
 # [Setup][1] | [Tutorials][2] | [Buy][3] | [Community][4] | [Nodes][5] | [About][6]
 
@@ -419,16 +418,12 @@ network.
 
 Check out all the Bitcoin Apps you can build with the 21 Bitcoin Computer.
 
-[See more apps][2]
-
-[![Next](https://assets.21.co/setup/img/next_app.png)][2]
-
 
 ---
 
 *Content authored by John Granata  |  Markdown created by PK Rasam* 
 
-If you have any questions or issues, please drop us a line at [\[email protected\] ][186] or join our [Slack ][4] community.
+If you have any questions or issues, please drop us a line at [Email ][186] or join our [Slack ][4] community.
 
 This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][187].
 
@@ -453,9 +448,7 @@ This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 In
 [12]: #step-3-use-the-clients-bitcoin-to-buy-api-calls-from-the-server "Step 3: Use the client's bitcoin to buy API calls from the server"
 [13]: #next-steps "Next Steps"
 [14]: /learn/ "< Back To Index"
-[15]: https://twitter.com/intent/tweet?text=Hmm. This looks like a good resource for learning how to build Bitcoin apps:&url=https%3A//21.co/learn/bitcoin-accelerated-computing/
 [16]: https://www.facebook.com/sharer/sharer.php?u=https%3A//21.co/learn/bitcoin-accelerated-computing/
-[17]: /cdn-cgi/l/email-protection#211e075254434b4442551c75494852014d4e4e4a52014d484a44014001464e4e45015344524e5453424401474e53014d4440534f484f4601494e5601554e01435448Xld Bitcoin apps&body=Here's the URL: https%3A//21.co/learn/bitcoin-accelerated-computing/
 [18]: /setup
 [19]: ../introduction-to-the-21-bitcoin-computer/
 [20]: ../21-multiple-users
@@ -623,8 +616,7 @@ This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 In
 [182]: http://www.cs.virginia.edu/~skadron/Papers/power_aware_intro_computer03.pdf
 [183]: ../intelligent-agents-with-bitcoin
 [184]: https://slack.21.co/
-[185]: /cdn-cgi/l/email-protection#6d524b1e180f07080e19503905041e4d010202061e4d010406084d0c4d0a0202094d1f081e02181f0e084d0b021f4d01080c1f0304030a4d05021a4d19024d0f1804Xld Bitcoin apps&body=Here's the URL: https%3A//21.co/learn/bitcoin-accelerated-computing/
-[186]: /cdn-cgi/l/email-protection#24575154544b56506416150a474b
+[186]: mailto:support@21.co
 [187]: https://creativecommons.org/licenses/by-sa/4.0/
 [188]: //twitter.com/21
 [189]: //medium.com/@21
