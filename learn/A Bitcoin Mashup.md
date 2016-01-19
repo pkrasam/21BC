@@ -2,7 +2,7 @@
 # [Setup][1] | [Tutorials][2] | [Buy][3] | [Community][4] | [Nodes][5] | [About][6]
 
 
-# A Bitcoin MashupPosted by
+# A Bitcoin Mashup 
 *Content authored by John Granata  |  Markdown created by PK Rasam* 
   
 
