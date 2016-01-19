@@ -1,4 +1,3 @@
-[![21.co](https://assets.21.co/shared/img/21logo.png)21 Inc][0]
 
 # [Setup][1] | [Tutorials][2] | [Buy][3] | [Community][4] | [Nodes][5] | [About][6]
 
@@ -333,15 +332,12 @@ network.
 
 Check out all the Bitcoin Apps you can build with the 21 Bitcoin Computer.
 
-[See more apps][2]
-
-[![Next](https://assets.21.co/setup/img/next_app.png)][2]
 
 ---
 
 *Content authored by John Granata  |  Markdown created by PK Rasam* 
 
-If you have any questions or issues, please drop us a line at [\[email protected\] ][146] or join our [Slack ][4] community.
+If you have any questions or issues, please drop us a line at [Email ][146] or join our [Slack ][4] community.
 
 This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][147].
 
@@ -367,9 +363,7 @@ This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 In
 [13]: #step-4-enable-the-crawler-service "Step 4: Enable the Crawler Service"
 [14]: #next-steps "Next Steps"
 [15]: /learn/ "< Back To Index"
-[16]: https://twitter.com/intent/tweet?text=Hmm. This looks like a good resource for learning how to build Bitcoin apps:&url=https%3A//21.co/learn/crawl-the-machine-payable-web/
 [17]: https://www.facebook.com/sharer/sharer.php?u=https%3A//21.co/learn/crawl-the-machine-payable-web/
-[18]: /cdn-cgi/l/email-protection#e8d7ce9b9d8a828d8b9cd5bc80819bc8848787839bc88481838dc889c88f87878cc89a8d9b879d9a8b8dc88e879ac8848d899a8681868fc880879fc89c87c88a9d81Xld Bitcoin apps&body=Here's the URL: https%3A//21.co/learn/crawl-the-machine-payable-web/
 [19]: https://21.co/learn/21-micropayments/#http-402-payment-required
 [20]: ../bitcoin-payable-api
 [21]: ../intelligent-agents-with-bitcoin
@@ -496,8 +490,7 @@ This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 In
 [142]: http://searchengineland.com/google-to-newspapers-robotstxt-you-22477
 [143]: http://www.bloomberg.com/news/articles/2015-06-02/chileans-betting-apple-to-go-green-in-china-led-rare-earths-rout
 [144]: https://slack.21.co/
-[145]: /cdn-cgi/l/email-protection#417e673234232b2422357c15292832612d2e2e2a32612d282a24612061262e2e25613324322e3433222461272e33612d2420332f282f2661292e3661352e61233428Xld Bitcoin apps&body=Here's the URL: https%3A//21.co/learn/crawl-the-machine-payable-web/
-[146]: /cdn-cgi/l/email-protection#15666065657a67615527243b767a
+[146]: mailto:support@21.co
 [147]: https://creativecommons.org/licenses/by-sa/4.0/
 [148]: //twitter.com/21
 [149]: //medium.com/@21
