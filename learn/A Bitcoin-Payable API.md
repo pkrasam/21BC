@@ -1,23 +1,9 @@
-[![21.co](https://assets.21.co/shared/img/21logo.png)21 Inc][0]
 
-* [Setup][1]
-* [Tutorials][2]
-* [Buy][3]
-* [Community][4]
-* [Nodes][5]
-* [About][6]
+# [Setup][1] | [Tutorials][2] | [Buy][3] | [Community][4] | [Nodes][5] | [About][6]
 
-* [A Bitcoin-Payable API][7]
-  * [Overview][8]
-  * [Prerequisites][9]
-  * [Step 1: Set up client and server accounts.][10]
-  * [Step 2: Create the micropayments server][11]
-  * [Step 3: Create a client to purchase the service][12]
-  * [Next Steps][13]
-* [< Back To Index][14]
 
-# A Bitcoin-Payable APIPosted by
-David Harding, Saïvann Carignan
+# A Bitcoin-Payable API 
+*Content authored by David Harding, Saïvann Carignan  |  Markdown created by PK Rasam* 
   
 * [A Bitcoin-Payable API][7]
   * [Overview][8]
@@ -274,17 +260,12 @@ network.
 
 Check out all the Bitcoin Apps you can build with the 21 Bitcoin Computer.
 
-[See more apps][2]
-
-[![Next](https://assets.21.co/setup/img/next_app.png)][2]
-
 
 ---
 
-Authors  
-David Harding, Saïvann Carignan
+*Content authored by David Harding, Saïvann Carignan  |  Markdown created by PK Rasam* 
 
-If you have any questions or issues, please drop us a line at [\[email protected\] ][119] or join our [Slack ][4] community.
+If you have any questions or issues, please drop us a line at [Email ][119] or join our [Slack ][4] community.
 
 This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][120].
 
@@ -309,9 +290,7 @@ This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 In
 [12]: #step-3-create-a-client-to-purchase-the-service "Step 3: Create a client to purchase the service"
 [13]: #next-steps "Next Steps"
 [14]: /learn/ "< Back To Index"
-[15]: https://twitter.com/intent/tweet?text=Hmm. This looks like a good resource for learning how to build Bitcoin apps:&url=https%3A//21.co/learn/bitcoin-payable-api/
 [16]: https://www.facebook.com/sharer/sharer.php?u=https%3A//21.co/learn/bitcoin-payable-api/
-[17]: /cdn-cgi/l/email-protection#5e61782d2b3c343b3d2a630a36372d7e323131352d7e3237353b7e3f7e3931313a7e2c3b2d312b2c3d3b7e38312c7e323b3f2c303730397e3631297e2a317e3c2b37Xld Bitcoin apps&body=Here's the URL: https%3A//21.co/learn/bitcoin-payable-api/
 [18]: /setup
 [19]: ../introduction-to-the-21-bitcoin-computer/
 [20]: ../21-multiple-users
@@ -412,8 +391,7 @@ This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 In
 [115]: https://open.blockspring.com/browse
 [116]: /submit-bitcoin-tutorial
 [117]: https://slack.21.co/
-[118]: /cdn-cgi/l/email-protection#cef1e8bdbbaca4abadbaf39aa6a7bdeea2a1a1a5bdeea2a7a5abeeafeea9a1a1aaeebcabbda1bbbcadabeea8a1bceea2abafbca0a7a0a9eea6a1b9eebaa1eeacbba7Xld Bitcoin apps&body=Here's the URL: https%3A//21.co/learn/bitcoin-payable-api/
-[119]: /cdn-cgi/l/email-protection#f784828787988583b7c5c6d99498
+[119]: mailto:support@21.co
 [120]: https://creativecommons.org/licenses/by-sa/4.0/
 [121]: //twitter.com/21
 [122]: //medium.com/@21
