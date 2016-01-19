@@ -1,4 +1,3 @@
-[![21.co](https://assets.21.co/shared/img/21logo.png)21 Inc][0]
 
 # [Setup][1] | [Tutorials][2] | [Buy][3] | [Community][4] | [Nodes][5] | [About][6]
 
@@ -316,16 +315,12 @@ network.
 
 Check out all the Bitcoin Apps you can build with the 21 Bitcoin Computer.
 
-[See more apps][2]
-
-[![Next](https://assets.21.co/setup/img/next_app.png)][2]
-
 
 ---
 
 *Content authored by Tyler Julian  |  Markdown created by PK Rasam* 
 
-If you have any questions or issues, please drop us a line at [\[email protected\] ][144] or join our [Slack ][4] community.
+If you have any questions or issues, please drop us a line at [Email ][144] or join our [Slack ][4] community.
 
 This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][145].
 
@@ -350,9 +345,7 @@ This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 In
 [12]: #step-3-log-in-as-the-client-user-and-purchase-the-endpoint "Step 3: Log in as the client user and purchase the endpoint"
 [13]: #next-steps "Next Steps"
 [14]: /learn/ "< Back To Index"
-[15]: https://twitter.com/intent/tweet?text=Hmm. This looks like a good resource for learning how to build Bitcoin apps:&url=https%3A//21.co/learn/bitcoin-notary-public/
 [16]: https://www.facebook.com/sharer/sharer.php?u=https%3A//21.co/learn/bitcoin-notary-public/
-[17]: /cdn-cgi/l/email-protection#a39c85d0d6c1c9c6c0d79ef7cbcad083cfccccc8d083cfcac8c683c283c4ccccc783d1c6d0ccd6d1c0c683c5ccd183cfc6c2d1cdcacdc483cbccd483d7cc83c1d6caXld Bitcoin apps&body=Here's the URL: https%3A//21.co/learn/bitcoin-notary-public/
 [18]: /setup
 [19]: ../introduction-to-the-21-bitcoin-computer/
 [20]: ../21-multiple-users
@@ -478,8 +471,7 @@ This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 In
 [140]: https://live.blockcypher.com/btc/tx/654e92898b5b5a0b14db92bf4738de91318b922d159db0030d6b14e42dfb963f/
 [141]: /learn/#reference
 [142]: https://slack.21.co/
-[143]: /cdn-cgi/l/email-protection#4e71683d3b2c242b2d3a731a26273d6e222121253d6e2227252b6e2f6e2921212a6e3c2b3d213b3c2d2b6e28213c6e222b2f3c202720296e2621396e3a216e2c3b27Xld Bitcoin apps&body=Here's the URL: https%3A//21.co/learn/bitcoin-notary-public/
-[144]: /cdn-cgi/l/email-protection#e0939590908f9294a0d2d1ce838f
+[144]: mailto:support@21.co
 [145]: https://creativecommons.org/licenses/by-sa/4.0/
 [146]: //twitter.com/21
 [147]: //medium.com/@21
