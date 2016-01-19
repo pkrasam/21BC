@@ -1,23 +1,9 @@
-[![21.co](https://assets.21.co/shared/img/21logo.png)21 Inc][0]
 
-* [Setup][1]
-* [Tutorials][2]
-* [Buy][3]
-* [Community][4]
-* [Nodes][5]
-* [About][6]
+# [Setup][1] | [Tutorials][2] | [Buy][3] | [Community][4] | [Nodes][5] | [About][6]
 
-* [Sell or License Any File for Bitcoin][7]
-  * [Overview][8]
-  * [Prerequisites][9]
-  * [Step 1: Set up client and server accounts.][10]
-  * [Step 2: Create a server to sell digital goods for bitcoin][11]
-  * [Step 3: Create a client to buy digital goods for bitcoin][12]
-  * [Next Steps][13]
-* [< Back To Index][14]
 
-# Sell or License Any File for BitcoinPosted by
-Ronak Mehta
+# Sell or License Any File for Bitcoin 
+*Content authored by Ronak Mehta  |  Markdown created by PK Rasam* 
   
 
 * [Sell or License Any File for Bitcoin][7]
@@ -323,17 +309,12 @@ network.
 
 Check out all the Bitcoin Apps you can build with the 21 Bitcoin Computer.
 
-[See more apps][2]
-
-[![Next](https://assets.21.co/setup/img/next_app.png)][2]
-
 
 ---
 
-Authors  
-Ronak Mehta
+*Content authored by Ronak Mehta  |  Markdown created by PK Rasam* 
 
-If you have any questions or issues, please drop us a line at [\[email protected\] ][151] or join our [Slack ][4] community.
+If you have any questions or issues, please drop us a line at [Email ][151] or join our [Slack ][4] community.
 
 This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][152].
 
@@ -358,9 +339,7 @@ This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 In
 [12]: #step-3-create-a-client-to-buy-digital-goods-for-bitcoin "Step 3: Create a client to buy digital goods for bitcoin"
 [13]: #next-steps "Next Steps"
 [14]: /learn/ "< Back To Index"
-[15]: https://twitter.com/intent/tweet?text=Hmm. This looks like a good resource for learning how to build Bitcoin apps:&url=https%3A//21.co/learn/sell-or-license-any-file-for-bitcoin/
 [16]: https://www.facebook.com/sharer/sharer.php?u=https%3A//21.co/learn/sell-or-license-any-file-for-bitcoin/
-[17]: /cdn-cgi/l/email-protection#102f366365727a7573642d44787963307c7f7f7b63307c797b75307130777f7f74306275637f6562737530767f62307c7571627e797e7730787f6730647f30726579Xld Bitcoin apps&body=Here's the URL: https%3A//21.co/learn/sell-or-license-any-file-for-bitcoin/
 [18]: ../introduction-to-the-21-bitcoin-computer/
 [19]: /setup
 [20]: ../21-multiple-users
@@ -493,8 +472,7 @@ This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 In
 [147]: http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xvii-deployment-on-linux-even-on-the-raspberry-pi
 [148]: http://tutos.readthedocs.org/en/latest/source/ndg.html
 [149]: https://slack.21.co/
-[150]: /cdn-cgi/l/email-protection#6e51481d1b0c040b0d1a533a06071d4e020101051d4e0207050b4e0f4e0901010a4e1c0b1d011b1c0d0b4e08011c4e020b0f1c000700094e0601194e1a014e0c1b07Xld Bitcoin apps&body=Here's the URL: https%3A//21.co/learn/sell-or-license-any-file-for-bitcoin/
-[151]: /cdn-cgi/l/email-protection#3b484e4b4b54494f7b090a155854
+[151]: mailto:support@21.co
 [152]: https://creativecommons.org/licenses/by-sa/4.0/
 [153]: //twitter.com/21
 [154]: //medium.com/@21
