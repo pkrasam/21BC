@@ -1,4 +1,3 @@
-[![21.co](https://assets.21.co/shared/img/21logo.png)21 Inc][0]
 
 # [Setup][1] | [Tutorials][2] | [Buy][3] | [Community][4] | [Nodes][5] | [About][6]
 
@@ -257,16 +256,12 @@ network.
 
 Check out all the Bitcoin Apps you can build with the 21 Bitcoin Computer.
 
-[See more apps][2]
-
-[![Next](https://assets.21.co/setup/img/next_app.png)][2]
-
 
 ---
 
 *Content authored by John Granata  |  Markdown created by PK Rasam* 
 
-If you have any questions or issues, please drop us a line at [\[email protected\] ][90] or join our [Slack ][4] community.
+If you have any questions or issues, please drop us a line at [Email ][90] or join our [Slack ][4] community.
 
 This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][91].
 
@@ -291,9 +286,7 @@ This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 In
 [12]: #step-3-create-an-intelligent-agent-that-searches-for-the-lowest-priced-api "Step 3: Create an intelligent agent that searches for the lowest-priced API"
 [13]: #next-steps "Next Steps"
 [14]: /learn/ "< Back To Index"
-[15]: https://twitter.com/intent/tweet?text=Hmm. This looks like a good resource for learning how to build Bitcoin apps:&url=https%3A//21.co/learn/intelligent-agents-with-bitcoin/
 [16]: https://www.facebook.com/sharer/sharer.php?u=https%3A//21.co/learn/intelligent-agents-with-bitcoin/
-[17]: /cdn-cgi/l/email-protection#90afb6e3e5f2faf5f3e4adc4f8f9e3b0fcfffffbe3b0fcf9fbf5b0f1b0f7fffff4b0e2f5e3ffe5e2f3f5b0f6ffe2b0fcf5f1e2fef9fef7b0f8ffe7b0e4ffb0f2e5f9Xld Bitcoin apps&body=Here's the URL: https%3A//21.co/learn/intelligent-agents-with-bitcoin/
 [18]: /setup
 [19]: ../introduction-to-the-21-bitcoin-computer/
 [20]: ../21-multiple-users
@@ -365,8 +358,7 @@ This content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 In
 [86]: ../bitcoin-payable-api
 [87]: /submit-bitcoin-tutorial
 [88]: https://slack.21.co/
-[89]: /cdn-cgi/l/email-protection#7748510402151d1214034a231f1e04571b18181c04571b1e1c125716571018181357051204180205141257111805571b121605191e1910571f18005703185715021eXld Bitcoin apps&body=Here's the URL: https%3A//21.co/learn/intelligent-agents-with-bitcoin/
-[90]: /cdn-cgi/l/email-protection#33404643435c41477301021d505c
+[90]: mailto:support@21.co
 [91]: https://creativecommons.org/licenses/by-sa/4.0/
 [92]: //twitter.com/21
 [93]: //medium.com/@21
